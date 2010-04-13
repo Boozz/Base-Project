@@ -7,7 +7,7 @@ This project uses the [ZFDebug][4] toolbar along with the [Danceric Doctrine plu
 
 The default ZF error page has also been spiced up by replacing the view script with the "shiny" [Agavi][6] error view script template.
 
-Doctrine and Zend Framework are assumed to already be in your path, if not then add them under the library directory.
+Doctrine and Zend Framework are assumed to already be in your path, if not then add them under the _library_ directory.
 
 
   [1]: http://framework.zend.com/manual/en/zend.tool.html
